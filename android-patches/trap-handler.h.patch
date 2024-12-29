@@ -24,3 +24,4 @@
  
  // Setup for shared library export.
  #if defined(BUILDING_V8_SHARED) && defined(V8_OS_WIN)
+ hello world i am  nipol who are you man
